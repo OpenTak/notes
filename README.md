@@ -1,2 +1,3 @@
-# notes
-RFCs and Notes on OpenTak decisions
+# Notes
+
+RFCs and Notes on OpenTak decisions.
