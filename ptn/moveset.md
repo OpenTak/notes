@@ -24,7 +24,7 @@ It's format consists of:
 * **count** - Number of pieces to influence
 * **x** - X or Column coordinate of influence
 * **y** - Y or Row coordinate of influence
-* **type** - Special type of piece placed or flat
+* **type** - A special type of piece placement such as a wall or capstone
 * **flatten** - If this move attempts to flatten a wall
 
 The X and Y coordinates are provided by applying the direction of the movement to the initial position of the movement.
